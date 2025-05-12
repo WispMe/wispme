@@ -1,6 +1,6 @@
 ![Header](/img/header-profile.jpg)
 
-### Hello 👋
+<h3 align="center">Hello Fellow Coders 👋</h3>
 
 You can call me Adil. I lived in Indonesia. I've been a Front-End Developer for around ~4 years. I love creating websites with a clean look. I'm currently learning how to use Figma so I can create a design by myself, can't believe it's fun!
 
