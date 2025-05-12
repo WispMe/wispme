@@ -1,18 +1,17 @@
-<h3 align="center">Welcome to My Github👋</h3>
+![Header](/img/header-profile.jpg)
 
-![Header](/img/header.jpeg)
+### Hello 👋
 
-<!--
-**WispMe/wispme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Adil. I lived in Indonesia. I've been a Front-End Developer for around ~4 years. I love creating websites with a clean look. I'm currently learning how to use Figma so I can create a design by myself, can't believe it's fun!
 
-Here are some ideas to get you started:
+I also love video games, and I'm kind of addicted to them. So, if you're also into gaming, then let's hop on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Language & Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,nuxt,figma&perline=5)
+
+##### Let's Connect
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizadilkhatami) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wispme) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_wispme)
+
+![Footer](/img/header.jpeg)
